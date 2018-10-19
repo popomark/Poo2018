@@ -28449,3 +28449,5 @@ void Game::ComposeFrame()
 		meter.Draw( gfx );
 	}
 }
+
+//MarkTestMessage
